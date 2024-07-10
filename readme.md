@@ -1,10 +1,10 @@
-# Blackjack Vite
+# TODO App Vite
 
 Pasos para ejecutar proyecto:
 
 1. Clonar repositorio 
 
-> git clone https://github.com/gus25888/js-vite-blackjack
+> git clone https://github.com/gus25888/todo-app
 
 2. Ejecutar 
 
